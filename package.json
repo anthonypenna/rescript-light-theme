@@ -1,0 +1,31 @@
+{
+  "name": "rescriptllighttheme",
+  "displayName": "Rescript Light Theme",
+  "description": "A minimalist reproduction of the theme used throughout Rescript's documentation.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rescript Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Rescript Light Theme-color-theme.json"
+      }
+    ]
+  },
+  "author": {
+    "email": "penna1296@gmail.com",
+    "name": "anthonypenna"
+  },
+  "repository": {
+    "url": "https://github.com/anthonypenna/rescript-light-theme.git",
+    "type": "git"
+  },
+  "publisher": "anthonypennadev",
+  "icon": "rescript.png"
+}
