@@ -2,8 +2,6 @@
 
 A minimalist reproduction of the theme used throughout Rescript's documentation. 🤍
 
-Dark version soon. 🚀
-
 ![Screenshot](./assets/rlt.png)
 
 ## Installation
